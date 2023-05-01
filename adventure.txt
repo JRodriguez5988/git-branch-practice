@@ -1,4 +1,4 @@
-Green_Lantern
+Green-Lantern
 Superman
 The Flash
 Batman
